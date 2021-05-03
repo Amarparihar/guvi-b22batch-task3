@@ -235,9 +235,10 @@ export default function Topbar() {
                 <span className="mr-2 d-none d-lg-inline text-gray-600 small">
                   Douglas McGee
                 </span>
-                <img
+                <img 
                   className="img-profile rounded-circle"
                   src="img/undraw_profile.svg"
+                  alt=""
                 />
               </span>
   
